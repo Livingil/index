@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.circle {
+  margin: auto;
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-radius: 50%;
+}
